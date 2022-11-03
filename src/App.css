@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'InterRegular';
+    src: url('/public/fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'InterBold';
+    src: url('/public/fonts/Inter-Bold.ttf') format('truetype');
+}
+
+body {
+    margin: 0px !important;
+}
+* {
+    font-family: InterRegular,sans-serif !important;
+}
